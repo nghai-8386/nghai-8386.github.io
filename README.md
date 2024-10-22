@@ -1,4 +1,4 @@
-'''<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -23,7 +23,7 @@
 
     </h1>
     
-    <p class="my-name">Code by harvey</p>
+    <p class="my-name">by NgHai</p>
     <div class="rain"></div>
     <div class="flower" id="animation-flower">
       <div class="f-wrapper">
@@ -75,4 +75,4 @@
 
     <script src="script.js"></script>
   </body>
-</html>'''
+</html>
